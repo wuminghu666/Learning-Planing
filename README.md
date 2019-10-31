@@ -2,15 +2,11 @@
 AML - [Advanced Machine Learning](topics/advanced_ml.md) | MIC - [Medical Image Computing](topics/mic.md) | Prog - [Programming](topics/programming.md)
 
 Related projects: 
-* [`M3DV/ai-deadlines`](https://github.com/M3DV/ai-deadlines): Top AI deadline countdowns (with an emphasis on computer vision and medical images).
-* [`M3DV/Readiness-Seminar`](https://github.com/M3DV/Readiness-Seminar): A cooperative paper list on 3D vision and deep learning robustness.
-* [`seanywang0408/Kickstart`](https://github.com/seanywang0408/Kickstart): Study route for learners in machine learning / deep learning / computer vision.
 
 NB: Time below means when "I am / was studying", not that for the paper itself.
 
 
 ## 2019-10
-I have just submitted papers to ISBI 2019 and will be attending MICCAI 2019 in Shenzhen, China.
 
 ### Reading
 
